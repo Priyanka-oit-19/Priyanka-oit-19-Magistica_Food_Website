@@ -8,3 +8,4 @@ Smooth scrolling in each section.
 Developed first with the Mobile First methodology, then for desktop.
 Compatible with all mobile devices and with a beautiful and pleasant user interface
 
+![Screenshot 2024-07-12 095401](https://github.com/user-attachments/assets/ff3f2e5b-0546-49e1-9d71-2588e9265fd3)
